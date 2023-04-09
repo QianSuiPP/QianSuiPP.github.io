@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://qiansuipp.github.io/2023/04/09/hello-world/</loc>
+    
+    <lastmod>2023-04-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://qiansuipp.github.io/2023/04/09/Welcome-to-my-Blog/</loc>
     
     <lastmod>2023-04-09</lastmod>
@@ -37,15 +46,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://qiansuipp.github.io/2023/04/09/hello-world/</loc>
-    
-    <lastmod>2023-04-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://qiansuipp.github.io/</loc>
@@ -57,13 +57,6 @@
   
   <url>
     <loc>https://qiansuipp.github.io/tags/node-js/</loc>
-    <lastmod>2023-04-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://qiansuipp.github.io/tags/hexo/</loc>
     <lastmod>2023-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
